@@ -10,7 +10,6 @@ composer.phar
 emprendedoraisp.com
 error_log
 files7
-fonts/
 grana2018/
 grana2019/
 grana_sandbox/
@@ -35,3 +34,6 @@ training/
 vallin/
 weef/
 wiki/
+/nbproject/private/
+/nbproject
+index.php
