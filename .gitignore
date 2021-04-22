@@ -9,6 +9,7 @@ cittyn/
 composer.phar
 emprendedoraisp.com
 error_log
+fonts/
 files/
 grana2018/
 grana2019/
@@ -35,3 +36,4 @@ vallin/
 weef/
 wiki/
 index.php
+nbproject/
